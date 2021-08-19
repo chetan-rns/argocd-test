@@ -9,6 +9,7 @@ resources:
 - crds/pkg.crossplane.io_locks.yaml
 - crds/pkg.crossplane.io_providerrevisions.yaml
 - crds/pkg.crossplane.io_providers.yaml
+- crds/aws.crossplane.io_providerconfigs.yaml
 - namespace.yaml
 - crossplane-helm.yaml
 - crossplane-aws-provider.yaml
